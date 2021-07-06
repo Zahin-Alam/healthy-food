@@ -32,11 +32,11 @@ body {
 
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(rgb(218, 162, 125), rgb(236, 132, 46));
+  background-image: linear-gradient(orange, rgb(245, 81, 81));
   color: white;
-  font-weight: 400;
-  padding: 10px 25px;
-  border-radius: 20px;
+  font-weight: 600;
+  padding: 20px 25px;
+  border-radius: 30px;
   margin-top: 10px;
   box-shadow: 10px 10px 10px gray;
 }
