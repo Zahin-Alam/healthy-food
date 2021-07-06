@@ -1,0 +1,38 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+#section-1{
+    display: flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+
+.first{
+    width: 50%;
+    padding-left: 4%;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+.heading{
+    font-size: 50px;
+}
+.image-1{
+    padding-left: 10%;
+    margin-left: 180px;
+}
+.link-button{
+    text-decoration: none;
+background-image: linear-gradient(salmon, tomato);
+color: white;
+font-weight: 700;
+padding: 10px 25px;
+border-radius: 20px;
+margin-top: 10px;
+
+}
+#paragraph-1{
+    padding-bottom: 30px;
+}
