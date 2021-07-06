@@ -1,5 +1,5 @@
 body {
-  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 0;
 }
 
@@ -90,10 +90,8 @@ h1.heading {
   box-shadow: 10px 10px 40px gray;
   width: 20%;
   margin-left: 5%;
-  padding-left: 20px;
-  padding-right: 15px;
-  padding-top: 15px;
-  border-radius: 15px;
+  padding: 20px;
+  border-radius: 35px;
   margin-top: 30px;
   margin-right: 5%;
 }
@@ -102,7 +100,40 @@ h1.heading {
   border-radius: 20px;
   padding-bottom: 10px;
 }
-
-#box-2 {
-  margin-left: 40px;
+.flexible-container {
+  display: flex;
+  margin-top: 150px;
+  height: 230px;
+  align-items: center;
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 15px;
+  margin-left: 10%;
+  margin-right: 5%;
+  width: 80%;
+  margin-bottom: 95px;
+}
+.last-box {
+  padding: 80px;
+}
+.last-header {
+  padding-left: 40px;
+  font-size: 50px;
+  font-weight: 700;
+}
+.feet {
+  font-family: "Oswald", sans-serif;
+}
+.last-feet {
+  text-align: center;
+}
+footer {
+  height: 250px;
+  background: #0b0d17;
+  padding: 70px;
+}
+.last-feet h3 {
+  color: rgb(230, 230, 230);
+}
+.last-feet h1 {
+  margin-bottom: 55px;
 }
