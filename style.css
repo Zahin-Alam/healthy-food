@@ -38,10 +38,9 @@ body {
   padding: 25px 30px;
   border-radius: 40px;
   margin-top: 10px;
-  box-shadow: 10px 10px 70px rgb(216, 129, 47);
+  box-shadow: 10px 10px 10px gray;
   font-weight: 600;
   font-size: 18px;
-  font-family: "Oswald", sans-serif;
 }
 
 #paragraph-1 {
